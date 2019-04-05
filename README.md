@@ -8,3 +8,4 @@ getcommand.py is the equivilant of a config file. you add a stalement like this.
 if [VOICE_COMMAND] in text:
 	PYTHON_CODE or
 	OS.SYSTEM('SHELL_CODE')
+'''
